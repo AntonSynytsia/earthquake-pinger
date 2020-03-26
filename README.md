@@ -1,3 +1,9 @@
+# Earthquake Report
+
+A React app for pinging current-time, geo-located earthquake events over a world map.
+
+Earthquake events are obtained with the [USGS](https://earthquake.usgs.gov/) Earthquake API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
